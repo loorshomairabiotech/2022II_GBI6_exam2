@@ -1,5 +1,5 @@
 # 2022II_GBI6_exam2
-Examen de Bioinformática, módulo de ![1200px-Logotipo_Ikiam](https://user-images.githubusercontent.com/117690592/216236178-331f50f4-bf0a-474b-b443-a0debd752a6f.png)
+Examen de Bioinformática, módulo de Python
 ## DATOS DEL CURSO
 -Nombre: Shomaira Loja
 -Sexo: Femenino
